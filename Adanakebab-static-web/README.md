@@ -1,8 +1,8 @@
 # Adana Kebap
 ​
-Bu proje bol bol kebap görüntüleri icerir!!
+This project includes lots of kebab images!
 ​
-## Kebap Görüntüleri
+## Kebab Images
 ​
 <div>
 <img src="https://github.com/johnwise2022/Adana_Kebab/blob/main/Adanakebab-static-web/26.jpg?raw=true" alt="drawing" width="200" height="200"/>
